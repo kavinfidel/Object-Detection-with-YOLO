@@ -1,0 +1,7 @@
+Listening on 127.0.0.1:50187
+[2024-12-31 06:43:25] info Disposed of connection to running server.
+[2024-12-31 06:43:26] info Checking /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-31 06:43:26] info Downloading Visual Studio Code server -> /tmp/.tmpvXpiff/vscode-server-linux-x64.tar.gz
+[2024-12-31 06:43:29] info Starting server...
+[2024-12-31 06:43:29] info Server started
+[2024-12-31 06:43:48] info Disposed of connection to running server.

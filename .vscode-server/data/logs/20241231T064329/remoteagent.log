@@ -1,0 +1,16 @@
+2024-12-31 06:43:29.601 [info] 
+
+
+
+
+2024-12-31 06:43:29.612 [info] Extension host agent started.
+2024-12-31 06:43:29.652 [info] Started initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.vscode-server/extensions
+2024-12-31 06:43:29.665 [info] Completed initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.vscode-server/extensions
+2024-12-31 06:43:30.398 [info] [<unknown>][be7be66b][ManagementConnection] New connection established.
+2024-12-31 06:43:30.400 [info] [<unknown>][54c96775][ExtensionHostConnection] New connection established.
+2024-12-31 06:43:30.524 [info] [<unknown>][54c96775][ExtensionHostConnection] <17222> Launched Extension Host Process.
+2024-12-31 06:43:48.650 [info] [<unknown>][be7be66b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-31 06:43:48.680 [info] [<unknown>][54c96775][ExtensionHostConnection] <17222> Extension Host Process exited with code: 0, signal: null.
+2024-12-31 06:43:48.680 [info] Cancelling previous shutdown timeout
+2024-12-31 06:43:48.680 [info] Last EH closed, waiting before shutting down
+2024-12-31 06:48:48.682 [info] Last EH closed, shutting down
